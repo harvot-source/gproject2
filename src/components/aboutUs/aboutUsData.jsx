@@ -12,7 +12,7 @@ const data = [
     lastName: "Castro",
     role: "Developer",
     image:
-      "https://scontent.fmnl8-3.fna.fbcdn.net/v/t39.30808-6/316552044_2263159313866265_2992430308647631833_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH4XkVlb0fYlnhMfP1xeMThFRF4_0bU3sgVEXj_RtTeyLbrSyX0nm3tWGY-OX2GfUOSkILbQ-ECyBsd-61fGgFf&_nc_ohc=ZP8ZZCFF28kAX-FDt1x&_nc_ht=scontent.fmnl8-3.fna&oh=00_AfCvUe-aLmIEHUcB1ggcTcHVWte5zwyvf-FiSlSQK2ghqw&oe=64C6E698",
+      "https://scontent.fceb7-1.fna.fbcdn.net/v/t39.30808-6/316552044_2263159313866265_2992430308647631833_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGK28XuutKzWAUnhXSU-iujFRF4_0bU3sgVEXj_RtTeyCkrwgRt_B_FKLtI0vxdFanCCy7W1dw-pyIsevv-55RP&_nc_ohc=AzAem0i82GIAX_fgz_q&_nc_ht=scontent.fceb7-1.fna&oh=00_AfAsenYgLmNalEJSKoAvAdyrKVZQVoZgQai_cnlJerpu5g&oe=64F06DD8",
     git: "https://harvot-source.github.io/myPortfolio/",
   },
   {
